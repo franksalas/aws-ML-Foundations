@@ -1,14 +1,9 @@
-# AWS Machine Learning Foundations
-# Program Syllabus
 
 
 
+# [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
 
-
-
-![](https://i.imgur.com/p8f02hq.png)
-
-## [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
+![](https://i.imgur.com/1dKlCGW.png)
 
 
 
